@@ -1,7 +1,7 @@
 import React from "react";
 // import PropTypes from "prop-types";
-import '../Components/AlbumList/index'
-import AlbumList from "../Components/AlbumList/index";
+import '../Components/AlbumList/albumList'
+import AlbumList from "../Components/AlbumList/albumList";
 
 AlbumFeature.propTypes = {};
 

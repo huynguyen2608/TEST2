@@ -1,5 +1,6 @@
-import Album from '../Album';
+import Album from '../Album/album';
 import PropTypes from 'prop-types';
+import './albumList.scss'
 
 AlbumList.propTypes = {
     albumList: PropTypes.array.isRequired,

@@ -1,9 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import '../features/Album/Pages'
+import '../features/Album/Pages/Pages'
 // import TodoFeature from '../features/Todo/Pages';
-import AlbumFeature from '../features/Album/Pages';
+import AlbumFeature from '../features/Album/Pages/Pages';
 
 function App() {
   return (
